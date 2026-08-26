@@ -1,0 +1,13 @@
+{
+  "name": "06-email-queue-with-redis-lists",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "ioredis": "^5.4.1"
+  }
+}
